@@ -5,7 +5,7 @@ I am a professional Front-end developer with 2 years of experience. My skills in
 Skills: HTML / CSS / JS / REACT / Bootstrap / Taliwind CSS / WordPress
 
 - 🔭 I’m currently working on Fiverr / Upwork 
-- 🌱 I’m currently learning MERN Stact 
+- 🌱 I’m currently learning MERN Stack 
 - 👯 I’m looking to collaborate on Front-end Development / WordPress 
 - 🤔 I’m looking for help with Website Development 
 - 📫 How to reach me: nhmnazmul22@gmail.com 
