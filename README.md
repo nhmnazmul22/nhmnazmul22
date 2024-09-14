@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Nazmul Hasan Mamun
-#### Professional Frontend and Wordpress Developer 
-I am a professional Front-end developer with 2 years of experience. My skills include HTML, CSS, JavaScript, Bootstrap and React and I have a strong understanding of responsive design. I am also proficient in WordPress and can design any website with custom themes and plugins. With a keen eye for design and attention to detail, I aim to deliver high-quality, user-friendly websites that meet client needs and expectations. Let's work together to bring your vision to life!
+#### Junior Full Stack Developer, MERN Stack Specialist 
+I'm a Junior Full Stack Developer specializing in MERN (MongoDB, Express, React, Node) technologies. I possess strong expertise in HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React, Next, Node, and Express, with a preference for MongoDB as my database. I have solid experience in REST API development and integration, and I am proficient with tools like Git, GitHub, GitHub Desktop, Postman, Studio 3T, and MongoDB Compass. My goal is to deliver high-quality, user-friendly websites that exceed client expectations. Let’s collaborate to bring your vision to life!
 
-Skills: HTML / CSS / JS / REACT / Bootstrap / Taliwind CSS / WordPress
+Skills: HTML / CSS / Bootstrap / JavaScript / Node.js / Express.js / MongodB / React / Taliwind CSS / WordPress
 
 - 🔭 I’m currently working on Fiverr / Upwork 
 - 🌱 I’m currently learning MERN Stack 
