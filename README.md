@@ -63,7 +63,7 @@
 <h2 align="left">💡 Projects I've Worked On</h2>
 
 - **[LandingOviva](https://github.com/Veronicachase/LandingOviva):** A professional landing page with dynamic forms and smooth animations, powered by React and Node.js.
-- **[eCommercePlatform](https://github.com/nhmnazmul22/mern-ecommerce):** A full-featured blog platform built with the MERN stack, featuring authentication, role-based access, and rich content management.
+- **[eCommercePlatform](https://github.com/nhmnazmul22/mern-ecommerce):** A full-featured e-commerce platform built with the MERN stack, featuring authentication, role-based access, and rich content management.
 - **[Task Manager API](https://github.com/nhmnazmul22/task_manager):** A RESTful API for managing tasks, built using Express.js and MongoDB with JWT-based authentication and CRUD functionality.
 
 ---
