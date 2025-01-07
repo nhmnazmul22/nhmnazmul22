@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#4CAF50;">✨ Welcome! I'm <span style="color:#FF6347;">Nazmul Hasan</span> ✨</h1>
-<h3 align="center" style="color:#6A5ACD;">Junior Full Stack Developer | Turning Ideas Into Reality</h3>
+<h3 align="center" style="color:#6A5ACD;">MERN Stack Developer | JavaScript | React.js | Next.js | Node.js | Express.js | MongoDB</h3>
 
 <p align="center">
   <a href="https://github.com/nhmnazmul22" target="_blank">
