@@ -5,7 +5,7 @@
   <a href="https://github.com/nhmnazmul22" target="_blank">
     <img src="https://img.shields.io/github/followers/nhmnazmul22?label=Followers&style=flat-square&color=green&logo=github" alt="GitHub Followers" />
   </a>
-  <a href="https://www.linkedin.com/in/nhm-nazmul/" target="_blank">
+  <a href="www.linkedin.com/in/nhmnazmul" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
   <a href="mailto:nhmnazmul87@gmail.com">
@@ -17,8 +17,8 @@
 
 ### 🌟 **About Me**
 
-- 🔭 **Current Project:** [LandingOviva](https://github.com/Veronicachase/LandingOviva) – A dynamic, interactive landing page built with the MERN stack.
-- 🌱 **Exploring:** Advanced **Next.js**, **TypeScript**, and **GraphQL**.
+- 🔭 **Current Project:** [Drive Flow](https://github.com/nhmnazmul22/Drive-flow) – A dynamic, interactive Car Rental Marketplace build with MERN stack.
+- 🌱 **Exploring:** Advanced **JavaScript**, **React.js**, and **Next.js**.
 - 🤝 **Collaboration:** Passionate about open-source projects and team collaborations.
 - 📝 **Knowledge Sharing:** I document my journey at [My Blog](https://nhmnazmul.netlify.app/), sharing tutorials and insights.
 - 💬 **Ask Me About:** JavaScript, React, Node.js, REST APIs, and modern web development.
