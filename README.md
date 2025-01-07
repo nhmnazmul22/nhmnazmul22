@@ -70,17 +70,17 @@
 
 ### 🚀 **Featured Projects**
 
-#### 🌐 [LandingOviva](https://github.com/Veronicachase/LandingOviva)  
-- **Tech Stack:** React, Node.js, MongoDB  
-- A modern landing page featuring dynamic forms and smooth animations.
+#### 🌐 [Drive-Flow](https://github.com/nhmnazmul22/Drive-flow)  
+- **Tech Stack:** React, Node.js, Express.js, MongoDB  
+-  A dynamic, interactive Car Rental Marketplace build with MERN stack.
 
-#### 🛍️ [eCommerce Platform](https://github.com/nhmnazmul22/mern-ecommerce)  
-- **Tech Stack:** MERN Stack  
-- An end-to-end e-commerce solution with authentication, role-based access, and CMS features.
+#### 🛍️ [Code-Solutions](https://github.com/nhmnazmul22/code-solutions)  
+- **Tech Stack:** React, Node.js, Express.js, MongoDB
+-  A dynamic, interactive "Web Development" Agency web application build with MERN stack.
 
-#### 📋 [Task Manager API](https://github.com/nhmnazmul22/task_manager)  
-- **Tech Stack:** Express.js, MongoDB  
-- A robust task management API with JWT-based authentication and CRUD functionality.
+#### 📋 [Mern Stack E-commerce](https://github.com/nhmnazmul22/mern-stack-e-commerce)  
+- **Tech Stack:** React, Node.js, Express.js, MongoDB
+-  A dynamic, interactive E-commerce Marketplace build with MERN stack.
 
 ---
 
