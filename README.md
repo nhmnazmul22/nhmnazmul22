@@ -87,26 +87,40 @@
 ### 📊 **GitHub Statistics**
 
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=nhmnazmul22&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
+
 <p align="center">
+  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhmnazmul22&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 <p align="center">
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nhmnazmul22&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 <p align="center">
+  <!-- Contribution Graph -->
   <img src="https://activity-graph.herokuapp.com/graph?username=nhmnazmul22&theme=tokyo-night" alt="Contribution Graph" />
 </p>
+
 <p align="center">
+  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=nhmnazmul22&style=flat-square&color=blueviolet" alt="Profile Views" />
 </p>
+
 <p align="center">
+  <!-- Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=nhmnazmul22&theme=tokyonight" alt="Trophies" />
 </p>
+
 <p align="center">
+  <!-- Custom Quote -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Custom Quote" />
 </p>
+
 
 ---
 
