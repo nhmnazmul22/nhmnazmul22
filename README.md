@@ -90,7 +90,7 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=nhmnazmul22&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nhmnazmul22&theme=dracula&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 <p align="center">
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhmnazmul22&theme=tokyonight" alt="GitHub Streak" />
