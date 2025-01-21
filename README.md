@@ -44,12 +44,18 @@
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /><br />Bootstrap
     </td>
     <td align="center">
+      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /><br />TailwindCSS
+    </td>
+    <td align="center">
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><br />React
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /><br />Next.js
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/TypeScript-61DAFB?style=for-the-badge&logo=typescript&logoColor=black" /><br />TypeScript
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /><br />Node.js
@@ -59,9 +65,6 @@
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /><br />MongoDB
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /><br />TailwindCSS
     </td>
   </tr>
 </table>
