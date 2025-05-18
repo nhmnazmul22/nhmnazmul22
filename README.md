@@ -67,26 +67,28 @@ An interactive e-commerce platform supporting product listing, cart management, 
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nhmnazmul22&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nhmnazmul22&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nhmnazmul22&show_icons=true&theme=tokyonight&cache_seconds=0" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhmnazmul22&layout=compact&theme=tokyonight&cache_seconds=0" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nhmnazmul22&theme=tokyonight" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nhmnazmul22&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nhmnazmul22&style=flat-square&color=blueviolet" alt="Profile Views" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
 ---
 
 ## 📚 Blog & Learning
 
-- 🧠 I write about web dev topics at [My Blog](https://nhmnazmul.netlify.app/)
-- 🎥 Check out my tutorials and projects on [YouTube](https://nhmnazmul.netlify.app/)
+- 🧠 I write about web dev topics at [My Blog](https://nhmnazmul.vercel.app)
+- 🎥 Check out my tutorials and projects on [YouTube](https://nhmnazmul.vercel.app)
 
 ---
 
