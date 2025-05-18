@@ -1,139 +1,105 @@
-<h1 align="center" style="color:#4CAF50;">✨ Welcome! I'm <span style="color:#FF6347;">Nazmul Hasan</span> ✨</h1>
-<h3 align="center" style="color:#6A5ACD;">MERN Stack Developer | JavaScript | React.js | Next.js | Node.js | Express.js | MongoDB</h3>
+<h1 align="center" style="color:#4CAF50;">✨ Hello World! I'm <span style="color:#FF6347;">Nazmul Hasan</span> ✨</h1>
+<h3 align="center" style="color:#6A5ACD;">MERN Stack Developer | React.js | Next.js | Node.js | MongoDB | JavaScript Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/nhmnazmul22" target="_blank">
-    <img src="https://img.shields.io/github/followers/nhmnazmul22?label=Followers&style=flat-square&color=green&logo=github" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/nhmnazmul22?label=GitHub&style=flat-square&logo=github&color=181717" />
   </a>
-  <a href="www.linkedin.com/in/nhmnazmul" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  <a href="https://www.linkedin.com/in/nhmnazmul" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nhmnazmul87@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Me" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🌟 **About Me**
+## 🌟 About Me
 
-- 🔭 **Current Project:** [Drive Flow](https://github.com/nhmnazmul22/Drive-flow) – A dynamic, interactive Car Rental Marketplace build with MERN stack.
-- 🌱 **Exploring:** Advanced **JavaScript**, **React.js**, and **Next.js**.
-- 🤝 **Collaboration:** Passionate about open-source projects and team collaborations.
-- 📝 **Knowledge Sharing:** I document my journey at [My Blog](https://nhmnazmul.netlify.app/), sharing tutorials and insights.
-- 💬 **Ask Me About:** JavaScript, React, Node.js, REST APIs, and modern web development.
-- 🎯 **Goal:** To develop scalable and innovative web solutions.
-- 🌍 **Fun Fact:** I love reading and experimenting with creative ideas for fun projects.
+- 🔭 Currently building **[Drive Flow](https://github.com/nhmnazmul22/Drive-flow)** – a Car Rental Marketplace using the MERN stack.
+- 🌱 Exploring deeper concepts in **JavaScript**, **React.js**, and **Next.js**.
+- 🤝 Passionate about **open-source**, team collaboration, and clean code.
+- 📝 I share dev insights and tutorials at [My Blog](https://nhmnazmul.netlify.app/).
+- 💬 Ask me about **React**, **Node.js**, **REST APIs**, and **MongoDB**.
+- 🎯 Goal: To build scalable, innovative SaaS and AI-powered applications.
+- 🌍 Fun fact: I enjoy reading and love building things from creative ideas.
 
 ---
 
-### 🎨 **My Technical Skill Set**
+## 💻 Tech Stack
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br />HTML
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br />CSS
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br />JavaScript
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /><br />Bootstrap
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /><br />TailwindCSS
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><br />React
-    </td>
+    <td align="center"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><br/>HTML</td>
+    <td align="center"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><br/>CSS</td>
+    <td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br/>JavaScript</td>
+    <td align="center"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/><br/>TypeScript</td>
+    <td align="center"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/><br/>Bootstrap</td>
+    <td align="center"><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/><br/>TailwindCSS</td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /><br />Next.js
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/TypeScript-61DAFB?style=for-the-badge&logo=typescript&logoColor=black" /><br />TypeScript
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /><br />Node.js
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /><br />Express.js
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /><br />MongoDB
-    </td>
+    <td align="center"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/><br/>React</td>
+    <td align="center"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/><br/>Next.js</td>
+    <td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/><br/>Node.js</td>
+    <td align="center"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/><br/>Express.js</td>
+    <td align="center"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/><br/>MongoDB</td>
   </tr>
 </table>
 
 ---
 
-### 🚀 **Featured Projects**
+## 🚀 Featured Projects
 
-#### 🌐 [Drive-Flow](https://github.com/nhmnazmul22/Drive-flow)  
-- **Tech Stack:** React, Node.js, Express.js, MongoDB  
--  A dynamic, interactive Car Rental Marketplace build with MERN stack.
+### 🌐 [Drive Flow](https://github.com/nhmnazmul22/Drive-flow)  
+> **Tech:** React, Node.js, Express, MongoDB  
+A dynamic and user-friendly car rental marketplace with real-time features and smooth user experience.
 
-#### 🛍️ [Code-Solutions](https://github.com/nhmnazmul22/code-solutions)  
-- **Tech Stack:** React, Node.js, Express.js, MongoDB
--  A dynamic, interactive "Web Development" Agency web application build with MERN stack.
+### 🛍️ [Code Solutions](https://github.com/nhmnazmul22/code-solutions)  
+> **Tech:** MERN Stack  
+A web agency platform offering web development services, designed with a clean and interactive interface.
 
-#### 📋 [Mern Stack E-commerce](https://github.com/nhmnazmul22/mern-stack-e-commerce)  
-- **Tech Stack:** React, Node.js, Express.js, MongoDB
--  A dynamic, interactive E-commerce Marketplace build with MERN stack.
+### 🛒 [MERN E-commerce](https://github.com/nhmnazmul22/mern-stack-e-commerce)  
+> **Tech:** MERN Stack  
+An interactive e-commerce platform supporting product listing, cart management, and order system.
 
 ---
 
-### 📊 **GitHub Statistics**
+## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=nhmnazmul22&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nhmnazmul22&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <!-- Profile Views -->
+  <img src="https://github-profile-trophy.vercel.app/?username=nhmnazmul22&theme=tokyonight" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=nhmnazmul22&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </p>
-
-<p align="center">
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=nhmnazmul22&theme=tokyonight" alt="Trophies" />
-</p>
-
-<p align="center">
-  <!-- Custom Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Custom Quote" />
-</p>
-
 
 ---
 
-### 📚 **Blog & Learning Resources**
+## 📚 Blog & Learning
 
-- 📝 I write about **JavaScript**, **MERN Stack**, and web development on [My Blog](https://nhmnazmul.netlify.app/).
-- 📺 I also create video tutorials. [Visit my YouTube channel here](https://nhmnazmul.netlify.app/).
+- 🧠 I write about web dev topics at [My Blog](https://nhmnazmul.netlify.app/)
+- 🎥 Check out my tutorials and projects on [YouTube](https://nhmnazmul.netlify.app/)
 
 ---
 
-### 🌟 **Connect With Me**
+## 🌐 Let's Connect
 
 <p align="center">
-  <a href="www.linkedin.com/in/nhmnazmul" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/nhmnazmul" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:nhmnazmul87@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/nhmnazmul22">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
