@@ -42,10 +42,18 @@
     <td align="center"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/><br/>React</td>
     <td align="center"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/><br/>Next.js</td>
     <td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/><br/>Node.js</td>
-    <td align="center"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/><br/>Express.js</td>
+    <td align="center"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/><br/>Express.js</td>
     <td align="center"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/><br/>MongoDB</td>
+    <td align="center"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/><br/>Figma</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/><br/>Firebase</td>
+    <td align="center"><img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white"/><br/>Appwrite</td>
+    <td align="center"><img src="https://img.shields.io/badge/Clerk-3B49DF?style=for-the-badge&logo=clerk&logoColor=white"/><br/>Clerk</td>
+    <td align="center"><img src="https://img.shields.io/badge/NextAuth.js-333333?style=for-the-badge&logo=next.js&logoColor=white"/><br/>NextAuth.js</td>
   </tr>
 </table>
+
 
 ---
 
