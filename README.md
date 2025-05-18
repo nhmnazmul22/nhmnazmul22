@@ -72,9 +72,6 @@ A web agency platform offering web development services, designed with a clean a
 An interactive e-commerce platform supporting product listing, cart management, and order system.
 
 ---
-
-## 📊 GitHub Stats
-
 ## 📊 GitHub Stats
 
 <p align="center">
