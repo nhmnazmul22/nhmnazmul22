@@ -17,10 +17,10 @@
 
 ## 🌟 About Me
 
-- 🔭 Currently building **[Drive Flow](https://github.com/nhmnazmul22/Drive-flow)** – a Car Rental Marketplace using the MERN stack.
+- 🔭 Currently building **[Drive Flow](https://github.com/nhmnazmul22/drive-flow-nextjs)** – a Car Rental Marketplace using the MERN stack.
 - 🌱 Exploring deeper concepts in **JavaScript**, **React.js**, and **Next.js**.
 - 🤝 Passionate about **open-source**, team collaboration, and clean code.
-- 📝 I share dev insights and tutorials at [My Blog](https://nhmnazmul.netlify.app/).
+- 📝 I share dev insights and tutorials at [My Blog](https://nhmnazmul.vercel.app).
 - 💬 Ask me about **React**, **Node.js**, **REST APIs**, and **MongoDB**.
 - 🎯 Goal: To build scalable, innovative SaaS and AI-powered applications.
 - 🌍 Fun fact: I enjoy reading and love building things from creative ideas.
@@ -59,7 +59,7 @@
 
 ## 🚀 Featured Projects
 
-### 🌐 [Drive Flow](https://github.com/nhmnazmul22/Drive-flow)  
+### 🌐 [Drive Flow](https://github.com/nhmnazmul22/drive-flow-nextjs)  
 > **Tech:** React, Node.js, Express, MongoDB  
 A dynamic and user-friendly car rental marketplace with real-time features and smooth user experience.
 
