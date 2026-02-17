@@ -111,14 +111,6 @@ const nazmul = {
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=nhmnazmul22&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 🎯 Featured Projects
 
 <div align="center">
@@ -193,35 +185,6 @@ const nazmul = {
 </td>
 </tr>
 </table>
-</div>
-
----
-
-## 💬 Let's Connect & Collaborate!
-
-<div align="center">
-
-I'm always interested in collaborating on innovative projects and connecting with fellow developers!
-<p>🤝 Open Source Contributions</p>
-<p>💼 Freelance Opportunities</p>
-<p>🎯 Collaborative Projects</p>
-<p>📚 Knowledge Sharing</p>
-<p>🌟 Mentoring & Learning</p>
-
-<br/>
-
-**📫 Reach out to me:**
-
-<a href="https://www.linkedin.com/in/nhmnazmul">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:nhmnazmul87@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://nhmnazmul.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-
 </div>
 
 ---
