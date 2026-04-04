@@ -114,78 +114,74 @@ const nazmul = {
 ## 🎯 Featured Projects
 
 <div align="center">
+
+| | | |
+|---|---|---|
+| **Role** | Backend Developer | Next.js Developer |
+
+</div>
+
+<!--Projects-->
 <table>
 <tr>
-<td width="50%">
-   <h3 align="center">🚗 Drive Flow</h3>
-   <div align="center">
-      <a href="https://github.com/nhmnazmul22/drive-flow-nextjs" target="_blank">
-         <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-      </a>
-      <a href="https://drive-flow-nextjs.vercel.app" target="_blank">
-         <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"/>
-      </a>
-   </div>
-   <br>
-   <p><strong>Tech Stack:</strong> React • Next.js • Node.js • MongoDB • TailwindCSS</p>
-   <p>A modern car rental marketplace with real-time booking, secure authentication, and seamless payment integration. Features include advanced      search filters, user dashboards, and responsive design.</p>
+
+<td valign="top" width="50%">
+
+### 🚗 Drive Flow
+**Backend Developer**
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nhmnazmul22/Drive-flow-backend)
+
+Three-role REST API (User, Host, Admin) for a car rental platform. JWT cookie-based auth, OTP email verification, booking management, rating system, and a Host CMS — secured with Helmet, XSS, and NoSQL injection protection.
+
+![Node.js](https://img.shields.io/badge/Node.js-teal?style=flat-square) ![Express](https://img.shields.io/badge/Express-teal?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-teal?style=flat-square) ![JWT](https://img.shields.io/badge/JWT-blue?style=flat-square) ![Mongoose](https://img.shields.io/badge/Mongoose-blue?style=flat-square)
+
 </td>
 
-<td width="50%">
-   <h3 align="center">💼 Code Solutions</h3>
-   <div align="center">
-      <a href="https://github.com/nhmnazmul22/code-solutions" target="_blank">
-         <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-      </a>
-      <a href="https://code-solutions.vercel.app" target="_blank">
-         <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"/>
-      </a>
-   </div>
-   <br>
-   <p><strong>Tech Stack:</strong> MERN Stack • Bootstrap • REST API</p>
-   <p>A comprehensive web agency platform showcasing services, portfolio, and client management. Includes admin dashboard, contact system, and service booking functionality.</p>
+<td valign="top" width="50%">
+
+### ⚖️ Mitra Jasa Legalitas
+**Next.js Developer**
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nhmnazmul22/legalitas)
+
+Legal consultancy website with secure admin and client panels for document and proposal management. Responsive design deployed on VPS with live domain integration.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-blueviolet?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-blueviolet?style=flat-square) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-blueviolet?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-teal?style=flat-square)
+
 </td>
+
 </tr>
-
 <tr>
-<td width="50%">
-   <h3 align="center">🛒 MERN E-commerce</h3>
-   <div align="center">
-      <a href="https://github.com/nhmnazmul22/mern-stack-e-commerce" target="_blank">
-         <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-      </a>
-      <a href="https://mern-ecommerce-demo.vercel.app" target="_blank">
-         <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"/>
-      </a>
-   </div>
-   <br>
-   <p><strong>Tech Stack:</strong> MongoDB • Express • React • Node.js</p>
-   <p>Full-featured e-commerce platform with product catalog, shopping cart, user authentication, order management, and secure checkout process using Stripe integration.</p>
+
+<td valign="top" width="50%">
+
+### 👶 Care.xyz
+**Next.js Developer**
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nhmnazmul22/care-xyz) [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://care-xyz-silk.vercel.app/)
+
+Care booking platform connecting families with verified caregivers. Multi-step booking wizard with real-time cost calculation, Google social login via NextAuth, animated status tracking, and dark/light theme.
+
+![Next.js](https://img.shields.io/badge/Next.js-blueviolet?style=flat-square) ![NextAuth](https://img.shields.io/badge/NextAuth-blue?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-teal?style=flat-square) ![Tailwind](https://img.shields.io/badge/Tailwind-38bdf8?style=flat-square)
+
 </td>
 
-<td width="50%">
-<h3 align="center">🌟 More Projects</h3>
-<div align="center">
-<a href="https://github.com/nhmnazmul22?tab=repositories" target="_blank">
-<img src="https://img.shields.io/badge/View%20All-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All"/>
-</a>
-<a href="https://nhmnazmul.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-</div>
-<br>
-<p><strong>Explore More:</strong></p>
-<p>
-• SaaS Applications<br>
-• AI-Powered Tools<br>
-• Real-time Chat Apps<br>
-• PWA Projects<br>
-• Open Source Contributions
-</p>
+<td valign="top" width="50%">
+
+### 🍳 KitchenConnect
+**MERN Stack Developer**
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nhmnazmul22/KitchenConnect-client) [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://kitchenconnect-a145a.web.app)
+
+Role-based food ordering platform (User, Chef, Admin). Firebase + JWT auth, Stripe payments, meal CRUD dashboards, order tracking, reviews, and Recharts analytics.
+
+![React](https://img.shields.io/badge/React-blue?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-teal?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-orange?style=flat-square) ![Stripe](https://img.shields.io/badge/Stripe-635bff?style=flat-square) ![Tailwind](https://img.shields.io/badge/Tailwind-38bdf8?style=flat-square)
+
 </td>
+
 </tr>
 </table>
-</div>
 
 ---
 
