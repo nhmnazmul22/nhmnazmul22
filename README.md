@@ -101,13 +101,20 @@ const nazmul = {
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <a href="https://ghcommits.com/u/nhmnazmul22"><img src="https://ghcommits.com/api/badge/nhmnazmul22.svg" alt="GitHub Commits Badge" /></a>
+</div>
+
+
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nhmnazmul22&theme=tokyonight" alt="Profile Details"/>
 </div>
+
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nhmnazmul22&theme=tokyonight" alt="Stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nhmnazmul22&theme=tokyonight" alt="Most Commit Language"/>
 </div>
+
 
 ---
 
